@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MultipleCatch {   // ← class name same as file name
+public class MultipleCatch {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
